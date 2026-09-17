@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "bd2d44b1b86bc73fd1e4ba1b",
+  "owner": "vwd3ggpu",
+  "repo": "vwd3ggpu.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "3a5f8bca8612a5dc40a32060",
+      "a": "薯条(SSRCloud)",
+      "b": "首页",
+      "entity": "薯条(SSRCloud)",
+      "brand": "薯条(SSRCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "46aacf04f5b20c077cb295691addf1ce7029c69721829956d86b0f8d881b4496",
+      "content": {
+        "primary_entity": "薯条(SSRCloud)",
+        "keyword1": "薯条(SSRCloud)",
+        "keyword2": "首页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按操作系统和终端类型选择对应客户端，在客户端中导入订阅信息完成配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "挑选适合的套餐并完成订阅配置，即可开始使用薯条(SSRCloud)。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别匹配轻度、中度和多设备团队场景。基础版适合个人日常使用，旗舰版增加专线优化与流媒体解锁，团队版提供高带宽节点和定制路由。选择时关注流量额度、设备数量与计费周期，按需订阅即可。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备数量与订阅周期展开，方便快速匹配需求。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版面向个人日常使用，满足手机和电脑的基础连接需求。",
+          "AI_FEATURE_TITLE_1": "个人设备适配",
+          "AI_FEATURE_TEXT_2": "旗舰版在基础版之上增加专线优化与流媒体解锁，适合多场景切换。",
+          "AI_FEATURE_TITLE_2": "多场景升级",
+          "AI_FEATURE_TEXT_3": "团队版支持更多设备同时在线，并提供定制路由，适合小型团队协作。",
+          "AI_FEATURE_TITLE_3": "团队协作方案",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再对照套餐额度选择，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步完成使用",
+          "AI_HERO_INTRO": "薯条(SSRCloud)提供基础版、旗舰版和团队版套餐，覆盖不同流量额度和设备数量。基础版适合个人日常使用，旗舰版针对流媒体和游戏优化，团队版支持多设备与定制路由。按需选择套餐并完成订阅配置，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "灵活套餐匹配设备需求",
+          "AI_HIGHLIGHT_1": "基础版适合个人日常使用",
+          "AI_HIGHLIGHT_2": "旗舰版优化流媒体与游戏",
+          "AI_HIGHLIGHT_3": "团队版支持多设备管理",
+          "AI_PLANS_INTRO": "三档套餐分别面向个人、进阶和团队场景，对比流量额度、设备数量和计费周期即可选出合适方案。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量和流量消耗，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与线路类型，确认满足使用场景。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "薯条(SSRCloud)套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版适合少量设备使用，如果手机、电脑、平板需要同时在线，建议向上选旗舰版或团队版，避免频繁互相挤掉线。",
+          "AI_FAQ_ANSWER_2": "订阅链接生成后，在对应客户端里粘贴导入即可。各客户端导入路径不同，参照所用客户端的文档操作就行。",
+          "AI_FAQ_ANSWER_3": "套餐按设备数区分，从个人到家庭再到团队逐级放宽，家庭多人使用或工作室多设备需求可以直接对应选择。",
+          "AI_FAQ_ANSWER_4": "月付适合短期试用，年付折算后每月更低。如果确定长期用，直接选年付更划算，长期使用无需频繁续费。",
+          "AI_FAQ_ANSWER_5": "旗舰版带 IPLC 专线节点，适合游戏与低延迟场景；团队版提供 VIP 高带宽节点与定制路由，适合多设备并发。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版能同时连几台设备？",
+          "AI_FAQ_QUESTION_2": "拿到订阅后怎么导入客户端？",
+          "AI_FAQ_QUESTION_3": "不同套餐的设备数量怎么选？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更合适？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版差别在哪？",
+          "AI_FAQ_TITLE": "套餐与使用答疑"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2c1d589fa6db882c871939de46582a1ff45a79ef72dae94a0b8dc3486fcef2dc",
+    "sitemap.xml": "00b44d0e4fec03a5b6ae0249f107cd69440513f10b619dfb53f9460f4068273c",
+    "robots.txt": "572b829358fa5384d4dd6d0593589dd4afeb0983041a5e4775f621175e84a78c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "545248b53a36c8487fe4597a8f2f53809294c9c99fae434e89296b82236b5f2d"
+}
